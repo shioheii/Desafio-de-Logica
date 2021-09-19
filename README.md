@@ -1,5 +1,5 @@
 # Desafio
-- Encontrei estes dois exercícios de lógica no perfil do @joaovictorpsantos e decidi resolvê-los.
+- Encontrei estes dois exercícios de lógica em um dos repositórios do [@joaovictorpsantos](https://github.com/joaovictorpsantos) e decidi tentar resolvê-los.
 
 ## Linguagem utilizada
 - Optei por utilizar a linguagem C++, devido à experiência que já tenho com ela, pois é a linguagem que estamos usando neste primeiro ano de curso.

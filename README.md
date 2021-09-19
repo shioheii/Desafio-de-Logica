@@ -10,6 +10,6 @@
 - [Conversão de binário para decimal](https://www.youtube.com/watch?v=zToihF2FE9I)
 
 ## Links para os exercicios
-- [Enunciados]()
-- [Exercicio 1]()
-- [Exercicio 2]()
+- [Enunciados](https://github.com/shioheii/Desafio-de-Logica/blob/main/Exerc%C3%ADcios%20de%20L%C3%B3gica/Teste%20programa%C3%A7%C3%A3o%20N2%20(1).pdf)
+- [Exercicio 1](https://github.com/shioheii/Desafio-de-Logica/blob/main/Exerc%C3%ADcios%20de%20L%C3%B3gica/Exercicio%201.cpp)
+- [Exercicio 2](https://github.com/shioheii/Desafio-de-Logica/blob/main/Exerc%C3%ADcios%20de%20L%C3%B3gica/Exercicio%202.cpp)
